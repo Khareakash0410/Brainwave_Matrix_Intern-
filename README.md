@@ -6,6 +6,11 @@
     <br>
 4.  I have used Bootstrap,javascript,html,css to build this website
 
+5. NOTE---- firstly login as admin with credentials 
+   username - admin
+   password - admin123
+    and create some products then product will be visible to everyone as customer and admin.
+
 #Screen Shots
 
 Login Page
